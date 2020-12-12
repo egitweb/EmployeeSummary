@@ -58,4 +58,4 @@ This project is license under the MIT License license.
 
 # Questions
   
-If you have any questions about the repo, open an issue or contact [Egitweb](https://github.com/egitweb) directly: eeg.iosdeveloper@gmail.com
+If you have any questions about the repo, open an issue or contact [Egitweb](https://github.com/egitweb) directly eeg.iosdeveloper@gmail.com
