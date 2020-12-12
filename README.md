@@ -1,12 +1,12 @@
 # Employee Summary Generator
 <h2>Getting Started</h2>
-<p>#</p>
+<p>This is a software engineering team generator command line application. Once the prompt are answer with the users information the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.</p>
 <h3>Preview:</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/egitweb/EmployeeSummaryGenerator/main/assets/Employee-summary-generator-preview.png" height="40%" width="50%" title="Employee Summary Generator Preview">
  
- [Click here to view Video](#)
+ [Click here to view Video](https://drive.google.com/file/d/1aoSskLXO65DlObXwtJkEBZWd9zacvK2c/view?usp=sharing)
 </p>
 
 # Table of Contents 
