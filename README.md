@@ -4,7 +4,7 @@
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" height="40%" width="50%" title="Employee Summary Generator Preview">
+  <img src="https://raw.githubusercontent.com/egitweb/EmployeeSummaryGenerator/main/assets/Employee-summary-generator-preview.png" height="40%" width="50%" title="Employee Summary Generator Preview">
  
  [Click here to view Video](#)
 </p>
